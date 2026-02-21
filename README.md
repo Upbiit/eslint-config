@@ -1,4 +1,4 @@
-# upbiit-eslint-config
+# @upbiit/eslint-config
 
 A strict, opinionated ESLint configuration for TypeScript projects with Angular, Jest, Stryker, Cucumber, and Playwright support.
 
@@ -22,7 +22,7 @@ A strict, opinionated ESLint configuration for TypeScript projects with Angular,
 
 ```bash
 npm install --save-dev \
-  upbiit-eslint-config \
+  @upbiit/eslint-config \
   eslint@^9.0.0 \
   typescript@^5.0.0 \
   @typescript-eslint/eslint-plugin@^8.0.0 \

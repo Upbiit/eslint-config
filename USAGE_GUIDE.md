@@ -1,4 +1,4 @@
-# Using upbiit-eslint-config in Your Projects
+# Using @upbiit/eslint-config in Your Projects
 
 ## Quick Start
 
@@ -7,4 +7,4 @@
 In each TypeScript project:
 
 ```bash
-npm install --save-dev upbiit-eslint-config
+npm install --save-dev @upbiit/eslint-config
